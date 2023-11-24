@@ -1,5 +1,6 @@
 * Which public sites are framable? 
   - None of my sites were framable
+    
 * sites that used "X-Frame-Options: SAMEORIGIN" to control framing:
   SITE 1: 000webhost.com
   SITE 13: archives.gov
@@ -20,11 +21,15 @@
   SITE 96: www.blogger.com
   SITE 97: www.google.com
 
-* sites that used Content-Security-Policy: frame-ancestors 'self';
+* sites that used "Content-Security-Policy" to control framing:
   SITE 25: dreamstime.com
   SITE 26: dropcatch.com
   SITE 27: ea.com
+  SITE 32: forbes.com
+  SITE 59: ok.ru
   SITE 78: sites.google.com
+
+* 
 
   
   * Extra Credit: 
